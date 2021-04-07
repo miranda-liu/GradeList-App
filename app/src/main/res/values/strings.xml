@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IntenseLearning</string>
+    <string name="login_app_title">Want Sleep</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_forgotPassword">Forgot password</string>
+    <string name="login_signUp">Sign Up</string>
+    <string name="register_name">Name</string>
+    <string name="register_username">Username</string>
+    <string name="register_password">Password</string>
+    <string name="register_confirmPassword">Confirm password</string>
+    <string name="register_email">Email</string>
+    <string name="register_register">Register</string>
+    <string name="register_cancel">Cancel</string>
+</resources>
